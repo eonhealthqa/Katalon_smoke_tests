@@ -1,0 +1,1 @@
+# Katalon_smoke_tests
